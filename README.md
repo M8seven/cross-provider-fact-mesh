@@ -1,9 +1,12 @@
 # Cross-Provider Fact Mesh: Zero-Cost Claim Verification for Multi-LLM Fusion Systems
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19061105.svg)](https://doi.org/10.5281/zenodo.19061105)
+
 **Defensive Publication — Establishing Prior Art**
 
 **Authors:** Valentino Paulon
 **Date:** March 17, 2026
+**DOI:** [10.5281/zenodo.19061105](https://doi.org/10.5281/zenodo.19061105)
 **Affiliation:** OneAnswerAI (independent)
 **Implementation:** Production since March 2026 in OneAnswerAI v2.0
 
